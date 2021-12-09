@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-<img src="/images/JLphoto.jpg" width="192" height="288" />
+<img src="/images/JLphoto.jpg" width="192" height="288"/>{: style="float: left; padding-right:16px"}
 
 I’m an Assistant Professor in the [Department of French and Italian](https://fi.byu.edu) and an affiliate of the [Department of Linguistics](https://ling.byu.edu/) at [Brigham Young University](https://www.byu.edu), where I've been since 2020. I received my Ph.D in French Linguistics from the [University of Texas at Austin](https://www.utexas.edu/).
 
