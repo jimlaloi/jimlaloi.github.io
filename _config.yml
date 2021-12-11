@@ -1,12 +1,24 @@
-title: Jim Law
-email: jimlaw@byu.edu
-description: >
-  Information about my research and teaching
-baseurl: ""
-url: ""
-twitter_username: jimlaloi
-github_username:  jimlaloi
+collections:
+  authors:
+    output: true
 
-theme: minima
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag

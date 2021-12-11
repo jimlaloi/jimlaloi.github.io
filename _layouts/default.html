@@ -1,0 +1,20 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Jim Law | {{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro' rel='stylesheet' type='text/css'>
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id="page-container">
+      <div class="container clearfix">
+        {{ content }}
+      </div>
+      {% include footer.html %}
+    </div>
+  </body>
+</html>
