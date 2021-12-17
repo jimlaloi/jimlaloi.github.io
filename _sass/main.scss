@@ -48,14 +48,22 @@ p a:visited {
 .container {
     max-width: 750px;
     margin: auto;
-    padding-left:20px;
-    padding-right:20px;
+    padding-left:5vw;
+    padding-right:5vw;
     display:block;
     position:relative;
     p {
         text-align: justify;
     }
 }
+
+/*@media (max-width: 1000px) {
+  .container {
+        padding-left:0;
+        padding-right:0;
+        max-width:90%;
+   }
+  }*/
 
 .site-header {
     border-top: 5px solid $grey-color-dark;
@@ -69,19 +77,26 @@ p a:visited {
     line-height: $base-line-height * $base-font-size * 2.25;
     letter-spacing: -1px;
     margin-bottom: 0;
-    padding-right: 20px;
+    padding-right: 1em;
     float: left;
   }
   .social {
-      padding:10px;
+      padding:5px;
+      line-height: $base-line-height * $base-font-size * 2.25;
+      margin-bottom: 0;
+      display: inline-block;
+      position: relative; 
+      z-index: 1;
   }
-  .svg-icon {
-    width: 16px;
-    height: 16px;
+  .social-span {
+    display: inline-block;
+  }
+  .svg-object {
+    position: relative; 
+    z-index: -1;
+    width: 1em;
+    height: 1em;
     fill: #{$grey-color};
-    padding-right: 30px;
-    position: absolute;
-    top: 21px;
   }
 
   .site-nav {
@@ -92,13 +107,11 @@ p a:visited {
     }
     a:link {
         color: $grey-color-dark;
+        font-size: 1.3em;
     }
     a:visited {
         color: $grey-color-dark;
     }
-  }
-  .current {
-    color: green;
   }
 
   .hover-underline-animation {
@@ -134,4 +147,3 @@ p a:visited {
         padding-bottom: 30px;
     }
 }
-

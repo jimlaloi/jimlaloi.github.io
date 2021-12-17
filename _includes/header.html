@@ -1,10 +1,26 @@
 <header class="site-header">
     <div class="container">
         <a class="site-title" href="{{ "/" | relative_url }}">Jim Law</a>     
-        <a href="mailto:jimlaw@byu.edu" class="social" title="email"><svg class="svg-icon"><use xlink:href="{{ '/assets/images/minima-social-icons.svg#email' | relative_url }}"></use></svg></a>
-        <a href="https://www.twitter.com/jimlaloi" class="social" title="twitter"><svg class="svg-icon"><use xlink:href="{{ '/assets/images/minima-social-icons.svg#twitter' | relative_url }}"></use></svg></a>
-        <a href="https://github.com/jimlaloi" class="social" title="github"><svg class="svg-icon"><use xlink:href="{{ '/assets/images/minima-social-icons.svg#github' | relative_url }}"></use></svg></a>
-        <a href="https://scholar.google.com/citations?user=M4dxFHkAAAAJ&hl=en" class="social" title="google scholar"><svg class="svg-icon" ><use xlink:href="{{ '/assets/images/minima-social-icons.svg#scholar' | relative_url }}"></use></svg></a>
+        <a href="mailto:jimlaw@byu.edu" class="social" title="email">
+            <span class="social-span">
+                <object class="svg-object" type="image/svg+xml" data="/assets/images/envelope.svg"></object>
+            </span>
+        </a>
+        <a href="https://www.twitter.com/jimlaloi" class="social" title="twitter">
+            <span class="social-span">
+                <object class="svg-object" type="image/svg+xml" data="/assets/images/twitter.svg"></object>
+            </span>
+        </a>
+        <a href="https://github.com/jimlaloi" class="social" title="github">
+            <span class="social-span">
+                <object class="svg-object" type="image/svg+xml" data="/assets/images/github.svg"></object>
+            </span>
+        </a>
+        <a href="https://scholar.google.com/citations?user=M4dxFHkAAAAJ&hl=en" class="social" title="google scholar">
+            <span class="social-span">
+                <object class="svg-object" type="image/svg+xml" data="/assets/images/scholar.svg"></object>
+            </span>
+        </a>
         <nav class="site-nav">
             {% for item in site.data.navigation %}
             <a href="{{ item.link }}" class="hover-underline-animation">
