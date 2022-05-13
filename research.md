@@ -4,7 +4,22 @@ title: Research
 
 <h1>{{ page.title }}</h1>
 
-I'm a cognitive and historical linguist interested in what we can learn about the mind by observing changes in linguistic meaning. Below are some descriptions of research projects I've been involved in. For publication details, please see my [CV](/cv.html).
+I'm a cognitive and historical linguist interested in what we can learn about the mind by observing changes in linguistic meaning. Below are listed my academic publications and some descriptions of research projects I've been involved in. For more details, please see my [CV](/cv.html).
+
+## Publications:
+
++ Law, J. (forthcoming). Regularity of semantic change in Romance anatomical terms. *Journal of Historical Linguistics*
++ Law, J. (forthcoming). Reflections of the French nasal vowel shift in variant orthography on Twitter. *Journal of French
+Language Studies*
++ Law, J. (2022). Metonymy and argument alternations in French communication frames. *Cognitive Linguistics* 33(2) [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2021-0072/html)]
++ Law, J. (2022). Frame‑based metonymy in teaching L2 vocabulary. In Hans C. Boas (ed.) *Directions for Pedagogical
+Construction Grammar: Learning and Teaching (with) Constructions*. Berlin: De Gruyter, 305‑332 [[link](https://www.google.com/books/edition/Directions_for_Pedagogical_Construction/SOxcEAAAQBAJ?hl=en&gbpv=0)]
++ Law, J., D. Barny & R. Poulin (2020). Patterns of peer interaction in multimodal L2 digital social reading. *Language
+Learning and Technology* 24(2), 70‑85 [[link](https://www.lltjournal.org/item/10125-44726/)]
++ Law, J. (2019). Diachronic frame analysis: The Purpose frame in French. *Constructions and Frames* 11(1), 42‑77 [[link](https://www.jbe-platform.com/content/journals/10.1075/cf.00023.law)]
++ Law, J. (2018). Conceptualizations of time in French depuis ‘since, for’ constructions. *Cognitive Linguistics* 29(2), 163‑
+195 [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2017-0102/html)]
+
 
 ## Current projects:
 
