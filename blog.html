@@ -4,14 +4,36 @@ title: Blog
 ---
 <h1>Latest Posts</h1>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.date | date: "%-d %B %Y" }}
-      <br>
-      {{ post.excerpt | strip_html | strip_newlines | truncate: 156 }}
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="{{ post.url }}">[Read more]</a>
-    </li>
-  {% endfor %}
-</ul>
+<div style="width: 100%;">
+  <div style="width: 80%; float: left">
+    <ul>
+      {% for post in site.posts limit:3 %}
+        <li>
+          <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+          {{ post.date | date: "%-d %B %Y" }}
+          <br>
+          {{ post.excerpt | strip_html | strip_newlines | truncate: 200 }}
+          <br><a href="{{ post.url }}">[Read more]</a>
+        </li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div style="margin-left: 80%; padding-left: 5%">
+    <h2>Archives</h2>
+
+{% for post in site.posts %}
+  {% assign currentdate = post.date | date: "%Y" %}
+  {% if currentdate != date %}
+    {% unless forloop.first %}</ul>{% endunless %}
+    <h4 style="margin-bottom: -10px; margin-top: -10px;" id="y{{post.date | date: "%Y"}}">{{ currentdate }}</h4>
+    <ul>
+    {% assign date = currentdate %}
+  {% endif %}
+    <li><a title="{{ post.title }}" href="{{ post.url }}">{{ post.date | date: "%b %-d" }}</a></li>
+  {% if forloop.last %}</ul>{% endif %}
+{% endfor %}
+</div>
+</div>
+
+
+
