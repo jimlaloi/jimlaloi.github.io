@@ -1,0 +1,10 @@
+I"„<h1>CV</h1>
+
+<p id="updated"> <a href="/assets/downloads/CV_Law.pdf" target="_blank" title="open a pdf of my CV in a new window">Click to download my CV</a>. (updated May 13, 2022)</p>
+
+<iframe src="../assets/downloads/CV_Law.pdf" height="500" width="100%"></iframe>
+
+<object data="../assets/downloads/CV_Law.pdf" width="100%" height="500" type="application/pdf"></object>
+
+<p><br /></p>
+:ET
