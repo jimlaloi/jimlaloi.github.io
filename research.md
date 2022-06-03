@@ -11,7 +11,7 @@ I'm a cognitive and historical linguist interested in what we can learn about th
 + Law, J. (in press). Regularity of semantic change in Romance anatomical terms. *Journal of Historical Linguistics*
 + Law, J. (in press). Reflections of the French nasal vowel shift in variant orthography on Twitter. *Journal of French
 Language Studies*
-+ Law, J. (2022). Metonymy and argument alternations in French communication frames. *Cognitive Linguistics* 33(2) [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2021-0072/html)]
++ Law, J. (2022). Metonymy and argument alternations in French communication frames. *Cognitive Linguistics* 33(2), 387-413 [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2021-0072/html)]
 + Law, J. (2022). Frame‑based metonymy in teaching L2 vocabulary. In Hans C. Boas (ed.) *Directions for Pedagogical
 Construction Grammar: Learning and Teaching (with) Constructions*. Berlin: De Gruyter, 305‑332 [[link](https://www.google.com/books/edition/Directions_for_Pedagogical_Construction/SOxcEAAAQBAJ?hl=en&gbpv=0)]
 + Law, J., D. Barny & R. Poulin (2020). Patterns of peer interaction in multimodal L2 digital social reading. *Language
