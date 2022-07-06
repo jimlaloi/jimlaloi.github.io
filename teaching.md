@@ -19,4 +19,4 @@ title: Teaching
 
 ## Course materials
 
-* *Grammaire Ouverte*. BYU Open Textbook Network. [open.byu.edu/grammaire_ouverte](https://open.byu.edu/grammaire_ouverte)<br/>This is an advanced French Grammar textbook that I wrote for use in French 321 and 322 and published under a [CC BY](https://creativecommons.org/licenses/by/4.0/) license.
+* *Grammaire Ouverte*. BYU Open Textbook Network. [open.byu.edu/grammaire_ouverte](https://open.byu.edu/grammaire_ouverte)<br/><br/>This is an advanced French Grammar textbook that I wrote for use in French 321 and 322 and published under a [CC BY](https://creativecommons.org/licenses/by/4.0/) license.
