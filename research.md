@@ -13,7 +13,7 @@ I'm a cognitive and historical linguist interested in what we can learn about th
 Language Studies*
 + Law, J. (2022). Metonymy and argument alternations in French communication frames. *Cognitive Linguistics* 33(2), 387-413 [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2021-0072/html)]
 + Law, J. (2022). Frame‑based metonymy in teaching L2 vocabulary. In Hans C. Boas (ed.) *Directions for Pedagogical
-Construction Grammar: Learning and Teaching (with) Constructions*. Berlin: De Gruyter, 305‑332 [[link](https://www.google.com/books/edition/Directions_for_Pedagogical_Construction/SOxcEAAAQBAJ?hl=en&gbpv=0)]
+Construction Grammar: Learning and Teaching (with) Constructions*. Berlin: De Gruyter, 305‑332 [[link](https://www.degruyter.com/document/doi/10.1515/9783110746723-010/html)]
 + Law, J., D. Barny & R. Poulin (2020). Patterns of peer interaction in multimodal L2 digital social reading. *Language
 Learning and Technology* 24(2), 70‑85 [[link](https://www.lltjournal.org/item/10125-44726/)]
 + Law, J. (2019). Diachronic frame analysis: The Purpose frame in French. *Constructions and Frames* 11(1), 42‑77 [[link](https://www.jbe-platform.com/content/journals/10.1075/cf.00023.law)]
