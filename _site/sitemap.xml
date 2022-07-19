@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/authors/jill.html</loc>
-<lastmod>2022-05-13T22:12:23-06:00</lastmod>
-</url>
-<url>
-<loc>http://localhost:4000/authors/ted.html</loc>
-<lastmod>2022-05-13T22:12:23-06:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/2020-08-20-starting-at-byu.html</loc>
 <lastmod>2020-08-20T00:00:00-06:00</lastmod>
 </url>
@@ -27,6 +19,14 @@
 <url>
 <loc>http://localhost:4000/2022-04-25-article-in-Cognitive-Linguistics.html</loc>
 <lastmod>2022-04-25T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022-07-01-French-Grammar-textbook-published.html</loc>
+<lastmod>2022-07-01T00:00:00-06:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/2022-07-19-article-in-Journal-of-French-Language-Studies.html</loc>
+<lastmod>2022-07-19T00:00:00-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/blog.html</loc>
@@ -48,7 +48,7 @@
 </url>
 <url>
 <loc>http://localhost:4000/assets/downloads/CV_Law.pdf</loc>
-<lastmod>2022-05-13T16:22:34-06:00</lastmod>
+<lastmod>2022-07-19T09:12:59-06:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/assets/downloads/GRATO2021_Law.pdf</loc>
