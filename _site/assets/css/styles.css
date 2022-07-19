@@ -8,6 +8,10 @@ p a:link { color: #0047ab; }
 
 p a:visited { color: #0047ab; }
 
+li a:link { color: #0047ab; }
+
+li a:visited { color: #0047ab; }
+
 #page-container { position: relative; min-height: 100vh; }
 
 .clearfix::after { content: ""; clear: both; display: table; padding-bottom: 1rem; }
