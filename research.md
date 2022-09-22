@@ -8,7 +8,7 @@ I'm a cognitive and historical linguist interested in what we can learn about th
 
 ## Publications:
 
-+ Law, J. (in press). Regularity of semantic change in Romance anatomical terms. *Journal of Historical Linguistics*
++ Law, J. (2022). Regularity of semantic change in Romance anatomical terms. *Journal of Historical Linguistics* [[link](https://www.jbe-platform.com/content/journals/10.1075/jhl.21046.law)]
 + Law, J. (2022). Reflections of the French nasal vowel shift in variant orthography on Twitter. *Journal of French
 Language Studies* 32(2), 197-215 [[link](https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/abs/reflections-of-the-french-nasal-vowel-shift-in-orthography-on-twitter/5A9A1C043DD7353A2F533C3EB7970C3A)]
 + Law, J. (2022). Metonymy and argument alternations in French communication frames. *Cognitive Linguistics* 33(2), 387-413 [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2021-0072/html)]
