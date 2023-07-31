@@ -8,7 +8,8 @@ I'm a cognitive and historical linguist interested in what we can learn about th
 
 ## Publications:
 
-+ Law, J. (2022). Regularity of semantic change in Romance anatomical terms. *Journal of Historical Linguistics* [[link](https://www.jbe-platform.com/content/journals/10.1075/jhl.21046.law)]
++ Law, J. (2023). Constructional change and frame element selection: Insights from the French Spending frame. *Constructions and Frames* 15(1), 120-145
++ Law, J. (2023). Regularity of semantic change in Romance anatomical terms. *Journal of Historical Linguistics* 13(2), 295-325 [[link](https://www.jbe-platform.com/content/journals/10.1075/jhl.21046.law)]
 + Law, J. (2022). Reflections of the French nasal vowel shift in variant orthography on Twitter. *Journal of French
 Language Studies* 32(2), 197-215 [[link](https://www.cambridge.org/core/journals/journal-of-french-language-studies/article/abs/reflections-of-the-french-nasal-vowel-shift-in-orthography-on-twitter/5A9A1C043DD7353A2F533C3EB7970C3A)]
 + Law, J. (2022). Metonymy and argument alternations in French communication frames. *Cognitive Linguistics* 33(2), 387-413 [[link](https://www-degruyter-com.erl.lib.byu.edu/document/doi/10.1515/cog-2021-0072/html)]
@@ -29,11 +30,15 @@ We can look at semantic change from two perspectives: by following a word throug
 
 The students in my History of French class play an important part in this research, helping to transcribe and correct OCR for some of the oldest French Bible manuscripts.
 
+### Motion verb-derived discourse markers
+
+In English, we use the expression "come on" not only to tell someone to *physically* move with us, but also to organize and react to our conversations: "*Come on*, you don't really expect me to believe that, do you?" Romance languages use several motion verbs to express meanings like this. Spanish shows some variety: *venga* ('come'), *anda* ('walk'), *vaya* and *vamos* (both 'go') can all be used as discourse markers (there's been great work done on this by [Sanne Tanghe](https://www.sciencedirect.com/science/article/pii/S0378216615003367)). Other Romance languages use fewer motion verbs this way, but they at least all use a 'go' verb as a discourse marker. I've noticed that while modern French only really uses 'go' (*allez*) as a discourse marker, medieval French used both 'go' and 'come'. I'm investigating whether there might be a general pattern where languages start off using lots of motion verbs as discourse markers, but then simplify this usage down to a single verb. If so, this could explain a lot about how we conceptualize the metaphorical relationship between movement and conversation.
+
+## Past projects:
+
 ### Metonymic argument alternations
 
 Linguistic constructions have slots that are filled with particular semantic roles. In some constructions, a few different roles can fill the same slot, such as "The mayor denied the allegations" or "The press release denied the allegations". Alternations like these are examples of *metonymy*, where one item stands for another that it's closely related to. I look for instances of these metonymic argument alternations in historical data to see how the use of particular metonymies has changed over time. Metonymy is a fundamental mechanism in cognition and language, so observing how its usage varies over time may help us to better understand how cultural and linguistic associations that we take for granted have developed.
-
-## Past projects:
 
 ### Semantic change in body-part terms
 
